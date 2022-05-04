@@ -1,0 +1,49 @@
+.fa {
+    display: inline;
+    padding: 20;
+    font: 14px/1 FontAwesome;
+    font-size: 30px;
+    width: 300px;
+    text-align: center;
+    text-decoration: none;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+/* Hover Effect */
+.fa:link,
+.fa:visited {
+    text-decoration: none;
+    text-align: center;
+    font-family: FontAwesome;
+    font: 14px/1 FontAwesome;
+    font-size: 50px;
+    color: #cc9e7a;
+}
+
+/* Hover Effect */
+.fa:hover {
+    text-decoration: none;
+    text-align: center;
+    font: 14px/1 FontAwesome;
+    font-size: 50px;
+    color: #cc9e7a;
+    opacity: 0.7;
+}
+
+/* Icon Coloring */
+
+.fa-facebook {
+    background: #734d45;
+    color: #cc9e7a;
+}
+
+.fa-twitter,
+.fa-instagram,
+.fa-youtube {
+    background: #734d45;
+    color: #cc9e7a;
+}
