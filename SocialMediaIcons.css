@@ -22,6 +22,7 @@
     font: 14px/1 FontAwesome;
     font-size: 50px;
     color: #cc9e7a;
+    transition: ease-out 0.3s;
 }
 
 /* Hover Effect */
@@ -32,6 +33,9 @@
     font-size: 50px;
     color: #cc9e7a;
     opacity: 0.7;
+    padding-right: 10px;
+    padding-left: 10px;
+    box-shadow: inset 300px, 0, 0, 0, red;
 }
 
 /* Icon Coloring */
@@ -43,7 +47,7 @@
 
 .fa-twitter,
 .fa-instagram,
-.fa-youtube {
+.fa-youtube-play {
     background: #734d45;
     color: #cc9e7a;
 }
